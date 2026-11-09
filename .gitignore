@@ -1,0 +1,6 @@
+/audit-csv-import
+*.exe
+assessments.json
+output_assessments.json
+example_files/
+.DS_Store

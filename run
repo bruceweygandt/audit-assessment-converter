@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+exec go run ./cmd/audit-csv-import "$@"
+

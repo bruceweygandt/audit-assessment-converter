@@ -1,0 +1,2939 @@
+[
+  {
+    "name": "Demo - SOC 2 Audit",
+    "targetType": "PROGRAM",
+    "target": "Demo SOC 2",
+    "program": "Demo SOC 2",
+    "mechanism": "",
+    "cycleFrequency": "ANNUALLY",
+    "programRequirementAssessments": [
+      {
+        "programRequirement": "SEC-01",
+        "status": "OPEN",
+        "owner": "",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": []
+      },
+      {
+        "programRequirement": "SEC-02",
+        "status": "OPEN",
+        "owner": "",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": []
+      },
+      {
+        "programRequirement": "SEC-03",
+        "status": "OPEN",
+        "owner": "",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": []
+      },
+      {
+        "programRequirement": "SEC-04",
+        "status": "OPEN",
+        "owner": "",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": []
+      },
+      {
+        "programRequirement": "SEC-05",
+        "status": "OPEN",
+        "owner": "",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": []
+      },
+      {
+        "programRequirement": "SEC-06",
+        "status": "OPEN",
+        "owner": "",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": []
+      },
+      {
+        "programRequirement": "SEC-07",
+        "status": "OPEN",
+        "owner": "",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": []
+      },
+      {
+        "programRequirement": "SEC-08",
+        "status": "OPEN",
+        "owner": "",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": []
+      }
+    ]
+  },
+  {
+    "name": "Demo - FedRAMP 20x Phase One Pilot Assessment",
+    "targetType": "PROGRAM",
+    "target": "20x Low - Phase One Pilot",
+    "program": "20x Low - Phase One Pilot",
+    "mechanism": "",
+    "cycleFrequency": "",
+    "programRequirementAssessments": [
+      {
+        "programRequirement": "CNA-03",
+        "status": "ACCEPTED",
+        "owner": "",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for CNA-03."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for CNA-03."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of CNA-03."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "CNA-04",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for CNA-04."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for CNA-04."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of CNA-04."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "CNA-02",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for CNA-02."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for CNA-02."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of CNA-02."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "CNA-05",
+        "status": "CHANGE_REQUESTED",
+        "owner": "Client Success",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "FAIL",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for CNA-05."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for CNA-05."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of CNA-05."
+                  }
+                ]
+              }
+            ],
+            "remediation": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example remediation from the previous assessment of CNA-05."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "programRequirement": "CNA-01",
+        "status": "ACCEPTED",
+        "owner": "",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for CNA-01."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for CNA-01."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of CNA-01."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "SVC-06",
+        "status": "OPEN",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "OPEN",
+            "assigned": "",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "SVC-01",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for SVC-01."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for SVC-01."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of SVC-01."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "PIY-06",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for PIY-06."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for PIY-06."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of PIY-06."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "CMT-03",
+        "status": "ACCEPTED",
+        "owner": "",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": []
+      },
+      {
+        "programRequirement": "PIY-01",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for PIY-01."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for PIY-01."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of PIY-01."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "PIY-02",
+        "status": "CHANGE_REQUESTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "FAIL",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for PIY-02."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for PIY-02."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of PIY-02."
+                  }
+                ]
+              }
+            ],
+            "remediation": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example remediation from the previous assessment of PIY-02."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "programRequirement": "INR-03",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for INR-03."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for INR-03."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of INR-03."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "CNA-06",
+        "status": "ACCEPTED",
+        "owner": "",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for CNA-06."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for CNA-06."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of CNA-06."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "CNA-07",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for CNA-07."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for CNA-07."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of CNA-07."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "SVC-04",
+        "status": "OPEN",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "OPEN",
+            "assigned": "",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "IAM-04",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for IAM-04."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for IAM-04."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of IAM-04."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "IAM-02",
+        "status": "ACCEPTED",
+        "owner": "",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for IAM-02."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for IAM-02."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of IAM-02."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "IAM-05",
+        "status": "CHANGE_REQUESTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "FAIL",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for IAM-05."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for IAM-05."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of IAM-05."
+                  }
+                ]
+              }
+            ],
+            "remediation": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example remediation from the previous assessment of IAM-05."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "programRequirement": "CMT-05",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for CMT-05."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for CMT-05."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of CMT-05."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "TPR-01",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for TPR-01."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for TPR-01."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of TPR-01."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "PIY-07",
+        "status": "ACCEPTED",
+        "owner": "",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for PIY-07."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for PIY-07."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of PIY-07."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "MLA-05",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": []
+      },
+      {
+        "programRequirement": "IAM-06",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for IAM-06."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for IAM-06."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of IAM-06."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "CMT-02",
+        "status": "OPEN",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "OPEN",
+            "assigned": "",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "MLA-06",
+        "status": "CHANGE_REQUESTED",
+        "owner": "",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "FAIL",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for MLA-06."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for MLA-06."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of MLA-06."
+                  }
+                ]
+              }
+            ],
+            "remediation": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example remediation from the previous assessment of MLA-06."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "programRequirement": "CMT-04",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for CMT-04."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for CMT-04."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of CMT-04."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "RPL-03",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for RPL-03."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for RPL-03."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of RPL-03."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "MLA-01",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for MLA-01."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for MLA-01."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of MLA-01."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "MLA-03",
+        "status": "ACCEPTED",
+        "owner": "",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for MLA-03."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for MLA-03."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of MLA-03."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "IAM-01",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for IAM-01."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for IAM-01."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of IAM-01."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "SVC-07",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for SVC-07."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for SVC-07."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of SVC-07."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "MLA-04",
+        "status": "CHANGE_REQUESTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "FAIL",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for MLA-04."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for MLA-04."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of MLA-04."
+                  }
+                ]
+              }
+            ],
+            "remediation": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example remediation from the previous assessment of MLA-04."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "programRequirement": "CMT-01",
+        "status": "OPEN",
+        "owner": "",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "OPEN",
+            "assigned": "",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "PIY-03",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for PIY-03."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for PIY-03."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of PIY-03."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "INR-02",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": []
+      },
+      {
+        "programRequirement": "CED-02",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for CED-02."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for CED-02."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of CED-02."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "RPL-01",
+        "status": "ACCEPTED",
+        "owner": "",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for RPL-01."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for RPL-01."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of RPL-01."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "INR-01",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for INR-01."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for INR-01."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of INR-01."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "PIY-05",
+        "status": "CHANGE_REQUESTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "FAIL",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for PIY-05."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for PIY-05."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of PIY-05."
+                  }
+                ]
+              }
+            ],
+            "remediation": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example remediation from the previous assessment of PIY-05."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "programRequirement": "RPL-04",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for RPL-04."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for RPL-04."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of RPL-04."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "RPL-02",
+        "status": "ACCEPTED",
+        "owner": "",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for RPL-02."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for RPL-02."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of RPL-02."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "CED-01",
+        "status": "OPEN",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "OPEN",
+            "assigned": "",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "PIY-04",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for PIY-04."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for PIY-04."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of PIY-04."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "MLA-02",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for MLA-02."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for MLA-02."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of MLA-02."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "SVC-05",
+        "status": "ACCEPTED",
+        "owner": "",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for SVC-05."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for SVC-05."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of SVC-05."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "TPR-03",
+        "status": "CHANGE_REQUESTED",
+        "owner": "Client Success",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "FAIL",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for TPR-03."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for TPR-03."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of TPR-03."
+                  }
+                ]
+              }
+            ],
+            "remediation": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example remediation from the previous assessment of TPR-03."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "programRequirement": "TPR-04",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for TPR-04."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for TPR-04."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of TPR-04."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "TPR-02",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": []
+      },
+      {
+        "programRequirement": "SVC-03",
+        "status": "ACCEPTED",
+        "owner": "",
+        "reviewer": "",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for SVC-03."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for SVC-03."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of SVC-03."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "SVC-02",
+        "status": "ACCEPTED",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "PASS",
+            "assigned": "alex.rivera@assessor.example.com",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "The assessor reviewed configuration exports and validator results for SVC-02."
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Automation Capability"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example validator evidence for SVC-02."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Assessor Overview"
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": "Example assessor notes from the previous assessment of SVC-02."
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      },
+      {
+        "programRequirement": "IAM-03",
+        "status": "OPEN",
+        "owner": "Client Success",
+        "reviewer": "sam.chen@example.com",
+        "remarks": null,
+        "assuranceSteps": [
+          {
+            "order": 0,
+            "method": "EXAMINE",
+            "status": "OPEN",
+            "assigned": "",
+            "plan": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "result": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "remediation": null
+          }
+        ]
+      }
+    ]
+  }
+]
